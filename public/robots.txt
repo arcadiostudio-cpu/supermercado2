@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Permitir indexação da loja
+Allow: /
+
+# Bloquear indexação do admin
+Disallow: /admin/
+
+# Sitemap
+Sitemap: https://seu-site.netlify.app/sitemap.xml
